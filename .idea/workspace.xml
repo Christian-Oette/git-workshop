@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abad23aa-39c5-4bb8-a380-0c802ce6ce57" name="Default Changelist" comment="Add first floor">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitRewordedCommitMessages">
+    <option name="onto" value="8e2ee0ef18f59dda769e0c18a71f5983c49018b4" />
+  </component>
+  <component name="ProjectId" id="1tlH3XmFx2aPD6bGB0QrvRydtfL" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abad23aa-39c5-4bb8-a380-0c802ce6ce57" name="Default Changelist" comment="" />
+      <created>1623336557042</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623336557042</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add first basement">
+      <created>1623336675756</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1623336675756</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add second layer">
+      <created>1623336715054</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623336715054</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first floor">
+      <created>1623336784987</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623336784987</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add roof">
+      <created>1623336944909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623336944909</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add basement1">
+      <created>1623337782797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623337782797</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add basement2">
+      <created>1623337821883</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623337821883</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add first floor">
+      <created>1623337892583</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1623337892583</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add basement">
+      <created>1623338791598</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1623338791598</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add basement">
+      <created>1623338811698</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1623338811698</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add first floor">
+      <created>1623338854205</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1623338854205</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+        <entry key="Paths">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="file:$PROJECT_DIR$/master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add first basement" />
+    <MESSAGE value="add second layer" />
+    <MESSAGE value="first floor" />
+    <MESSAGE value="add roof" />
+    <MESSAGE value="Add basement1" />
+    <MESSAGE value="Add basement2" />
+    <MESSAGE value="Add basement" />
+    <MESSAGE value="Add first floor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add first floor" />
+  </component>
+</project>
