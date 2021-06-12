@@ -14,14 +14,14 @@
         AAAAAAAAAAAAAAAAA
       AA                 AA
     AA                     AA
-    PPPPPPPPPPPPPPPPPPPPPPPPP
-    PP                     PP
-    PP                     PP
-    PP                     PP
-    FFFFFFFFFFFFFFFFFFFFFFFFF
-    FF                     FF
-    FF                     FF
-    FF                     FF
-    MMMMMMMMMMMMMMMMMMMMMMMMM
-    MMMMMMMMMMMMMMMMMMMMMMMMM
+    PPPPPPPPPPPPPPPPPPPPPPPPP                       CCCC
+    PP                     PP                      C   C
+    PP                     PP                     C     C
+    PP                     PP                      C   C
+    FFFFFFFFFFFFFFFFFFFFFFFFF                       C C
+    FF                     FF                        C
+    FF                     FF                        C
+    FF                     FF                        C
+    MMMMMMMMMMMMMMMMMMMMMMMMM                        C
+    MMMMMMMMMMMMMMMMMMMMMMMMM                        C
 ----------------------------------------------------------------------------
