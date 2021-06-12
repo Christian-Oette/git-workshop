@@ -19,9 +19,9 @@
     PP                     PP                     C     C
     PP                     PP                      C   C
     FFFFFFFFFFFFFFFFFFFFFFFFF                       C C
-    FF                     FF                        C
-    FF                     FF                        C
-    FF                     FF                        C
+    FF    NNNNN            FF                        C
+    FF    N   M            FF                        C
+    FF    N   N            FF                        C
     MMMMMMMMMMMMMMMMMMMMMMMMM                        C
     MMMMMMMMMMMMMMMMMMMMMMMMM                        C
 ----------------------------------------------------------------------------
