@@ -6,11 +6,11 @@
 
 
 
-
-
-
-
-
+                 C
+               CC
+              C
+           CCCC
+           C  C
         AAAAAAAAAAAAAAAAA
       AA                 AA
     AA                     AA
